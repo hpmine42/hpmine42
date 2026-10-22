@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm hpmine42</h1>
 
 <p align="center">
@@ -100,18 +99,6 @@
       width="98%"
     />
   </a>
-</p>
-
----
-
-## A little pixel art
-
-<p align="center">
-  <img
-    src="assets/pixel-dev.gif"
-    alt="Animated pixel art developer"
-    width="240"
-  />
 </p>
 
 ---
