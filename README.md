@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm hpmine42</h1>
+
 ---
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
     <img
@@ -8,7 +10,9 @@
     />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <a href="https://github.com/hpmine42">
     <img
