@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Developer;Building+cool+things;Welcome+to+my+profile"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Software-Developer;Building+cool+things;Welcome+to+my+profile"
       alt="Typing SVG"
     />
   </a>
