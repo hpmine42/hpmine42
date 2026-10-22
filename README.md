@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm hpmine42</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Software-Developer;Building+cool+things;Welcome+to+my+profile"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="assets/terminal.gif"
+    alt="Animated developer terminal"
+    width="700"
+  />
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
   </a>
   <a href="https://github.com/hpmine42?tab=followers">
     <img
-      src="https://img.shields.io/github/followers/hpmine42?style=for-the-badge&color=181717&logo=github&label=Followers"
+      src="https://img.shields.io/github/followers/hpmine42?style=for-the-badge&logo=github&label=Followers&color=181717"
       alt="GitHub Followers"
     />
   </a>
@@ -33,23 +32,43 @@
 
 ---
 
-## About Me
-
-- Developer building projects and experimenting with new technologies.
-- Interested in web development and software engineering.
-- Always learning and building something new.
-
-## Tech Stack
+## Featured Project
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/hpmine42/enough">
+    <img
+      src="https://img.shields.io/badge/PROJECT-enough.-161B22?style=for-the-badge&labelColor=161B22&color=00CFFF"
+      alt="enough. project"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>enough.</strong>
+  <br />
+  A minimalist private messenger focused on simplicity,
+  privacy and meaningful conversations.
+</p>
+
+<p align="center">
+  <a href="https://hpmine42.github.io/enough/">
+    <img
+      src="https://img.shields.io/badge/LIVE_DEMO-00CFFF?style=flat-square&logo=githubpages&logoColor=0D1117"
+      alt="Live Demo"
+    />
+  </a>
+  <a href="https://github.com/hpmine42/enough">
+    <img
+      src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white"
+      alt="Source Code"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ---
@@ -77,10 +96,22 @@
   <a href="https://github.com/hpmine42">
     <img
       src="https://fabianocouto-activity-graph.vercel.app/graph/?username=hpmine42&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
-      alt="hpmine42's GitHub Contribution Analytics"
+      alt="GitHub Contribution Analytics"
       width="98%"
     />
   </a>
+</p>
+
+---
+
+## A little pixel art
+
+<p align="center">
+  <img
+    src="assets/pixel-dev.gif"
+    alt="Animated pixel art developer"
+    width="240"
+  />
 </p>
 
 ---
@@ -98,9 +129,10 @@
       srcset="https://raw.githubusercontent.com/hpmine42/hpmine42/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/hpmine42/hpmine42/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
       width="100%"
     />
   </picture>
+  
 </p>
