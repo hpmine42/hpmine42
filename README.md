@@ -1,18 +1,17 @@
 <!--
-  Reading the source? Nice. Deduction: you're a developer.
-  Yes, the off-by-one joke is intentional. No, I will not fix it.
+  Reading the source? Good sign. You're a developer.
 -->
 
 <h1 align="center">Hi 👋, I'm hpmine42</h1>
 
 <p align="center">
-  <em>Professional bug creator · Amateur bug fixer</em>
+  <em>Developer · Building things that stay simple</em>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hello+world;Developer;Works+on+my+machine;99+bugs+in+the+code;sudo+make+me+a+sandwich;It's+not+a+bug+it's+a+feature"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hello+world;Developer;Building+cool+things;Works+on+my+machine;Welcome+to+my+profile"
       alt="Typing SVG"
     />
   </a>
@@ -37,12 +36,6 @@
       alt="Email"
     />
   </a>
-  <a href="https://github.com/hpmine42?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/STATUS-debugging_something-00CFFF?style=for-the-badge&labelColor=161B22"
-      alt="Status"
-    />
-  </a>
 </p>
 
 ---
@@ -51,17 +44,15 @@
 
 ```bash
 $ whoami
-hpmine42            # 0-indexed, obviously
+hpmine42
 
 $ cat about.txt
-Developer. I turn coffee into code and code into stack traces.
-I write software, then I read it, then I apologize to it.
-Most of my bugs are features that haven't been documented yet.
+Developer. I like simple solutions, readable code and clean commits.
+Preferably in that order.
 
 $ git status
 On branch main
 nothing to commit, working tree clean
-(4 uncommitted crises)
 ```
 
 ---
@@ -83,7 +74,7 @@ nothing to commit, working tree clean
   A minimalist private messenger focused on simplicity,
   privacy and meaningful conversations.
   <br />
-  <sub>No tracking, no ads, no "we've updated our privacy policy" emails. Revolutionary, I know.</sub>
+  <sub>No tracking, no ads, no noise.</sub>
 </p>
 
 <p align="center">
@@ -113,11 +104,10 @@ nothing to commit, working tree clean
 
 | | |
 | :--- | :--- |
-| 🔭 &nbsp;**Building** | `enough.` — plus 6 other side projects, of which 3 are 40 % done |
-| 🌱 &nbsp;**Learning** | Rust (this time for real), and how to say "no" to a new side project |
-| 🐛 &nbsp;**Debugging** | Something that worked yesterday. Nothing changed. Something changed. |
-| 💬 &nbsp;**Ask me about** | React, TypeScript, Supabase, and why it only fails on CI |
-| ⚡ &nbsp;**Fun fact** | I fixed one bug and got 1.0000000000000002 new ones |
+| 🔭 &nbsp;**Building** | `enough.` — and a few smaller side projects |
+| 🌱 &nbsp;**Learning** | Rust, and how to say "no" to a new side project |
+| 🐛 &nbsp;**Debugging** | Something that worked yesterday |
+| 💬 &nbsp;**Ask me about** | React, TypeScript, Supabase |
 
 ---
 
@@ -133,7 +123,6 @@ nothing to commit, working tree clean
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=0D1117" alt="Linux" />
-  <img src="https://img.shields.io/badge/Coffee-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Coffee" />
 </p>
 
 ---
@@ -161,59 +150,14 @@ nothing to commit, working tree clean
   />
 </p>
 
-<p align="center">
-  <sub>Yes, the streak resets at 00:00 UTC. No, I did not plan my life around that. Yes, I do now.</sub>
-</p>
-
 ---
 
-## 🐛 Known Issues
+## 🧩 How I Work
 
-| Severity | Issue | Status |
-| :--- | :--- | :--- |
-| 🔴 Critical | Sleep schedule has a memory leak | Won't fix |
-| 🟠 Major | Number of side projects exceeds number of weekends | In progress |
-| 🟡 Minor | Tabs vs. spaces still unresolved internally | By design |
-| 🟢 Trivial | Coffee-to-code conversion rate > 1.0 | Working as intended |
-| ⚪ Won't fix | Deprecated `console.log` in production, since 2022 | Legacy support |
-
-> *"It's not a bug, it's an undocumented feature."* — every changelog I've ever written
-
-<details>
-<summary><strong>Changelog</strong> (click, if you dare)</summary>
-
-```diff
-## v42.0.0 — unreleased
-+ Added: three new side projects
-+ Added: README jokes (this commit)
-- Removed: free time
-! Fixed: a bug where I said "quick fix"
-! Fixed: nothing, actually. Renamed a variable instead.
-~ Refactored: a thing that was working perfectly fine
-> Known issue: this changelog is now 2 weeks behind reality
-
-## v41.9.9
-! Fixed: off-by-one error (it was an off-by-two error)
-```
-
-</details>
-
----
-
-## 💭 Developer Beliefs (unpopular opinions)
-
-- There are two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.
-- *"It works on my machine"* is a valid deployment strategy — if you ship the machine. The cloud is just someone else's computer anyway.
-- 0-indexing is correct. Everything else is a rounding error.
-- I'm not afraid of `undefined`. I'm afraid of `undefined` that only appears on Fridays at 16:55.
-- My most reliable code reviewer is a rubber duck. Approval rate: 100 %. Comments: 0.
-- Premature optimization is the root of all evil — except for that one `console.log` I left in production. That one is load-bearing.
-- I had a problem, so I used regex. Now I have two problems, and one of them is catastrophic backtracking.
-- Dark mode, because light attracts bugs.
-- If the tests pass on the first try, be suspicious. Something is simply not being tested.
-- Comments are for the next developer. I write them for the version of me that exists 6 months from now, who is technically a different person and definitely hates me.
-- `git commit -m "final"` is not a message. It's a historical document of optimism.
-- Legacy code is code written by someone who knew exactly what they were doing, six months ago, and that someone was me.
+- Keep it simple. Clever code is a cost, not a feature.
+- Readable beats clever — the next reader is a stranger, or future me.
+- If it only works locally, it doesn't work.
+- The best feature is the one that didn't need to be built.
 
 ---
 
@@ -227,10 +171,6 @@ nothing to commit, working tree clean
       width="98%"
     />
   </a>
-</p>
-
-<p align="center">
-  <sub>Mostly green. Occasionally on fire. The graph is uptime, the dips are "why does this work locally?".</sub>
 </p>
 
 ---
@@ -255,26 +195,16 @@ nothing to commit, working tree clean
   </picture>
 </p>
 
-<p align="center">
-  <sub>The only snake I'm not afraid of. It runs on a cron job at 00:00 UTC, which is the most reliable code I own.</sub>
-</p>
-
 ---
 
 ## 📬 Contact
 
 <p align="center">
-  Open to collaborations, code reviews, and arguments about semicolons.
+  Open to collaborations and code reviews.
   <br />
-  Best reached by <a href="mailto:hpmine@web.de">email</a> — response time follows an exponential distribution.
+  Best reached by <a href="mailto:hpmine@web.de">email</a>.
 </p>
 
 <p align="center">
-  <em>⚡ Powered by caffeine, curiosity, and an above-average number of open browser tabs.</em>
+  <em>⚡ Always curious, always building.</em>
 </p>
-
-<!--
-  Easter egg: if you made it this far, you're the kind of person who reads the source.
-  Say hi — I'll split the credit 50/50, adjusted for off-by-one errors.
-  No semicolons were harmed in the making of this README. One was missing, though.
--->
