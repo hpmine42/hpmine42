@@ -44,7 +44,7 @@
 
 ```bash
 $ whoami
-hpmine42
+hpmine42            # 0-indexed, obviously
 
 $ cat about.txt
 Developer. I like simple solutions, readable code and clean commits.
@@ -104,10 +104,10 @@ nothing to commit, working tree clean
 
 | | |
 | :--- | :--- |
-| 🔭 &nbsp;**Building** | `enough.` — and a few smaller side projects |
+| 🔭 &nbsp;**Building** | `enough.` — plus a few side projects, some of them 40 % done |
 | 🌱 &nbsp;**Learning** | Rust, and how to say "no" to a new side project |
-| 🐛 &nbsp;**Debugging** | Something that worked yesterday |
-| 💬 &nbsp;**Ask me about** | React, TypeScript, Supabase |
+| 🐛 &nbsp;**Debugging** | Something that worked yesterday. Nothing changed. Something changed. |
+| 💬 &nbsp;**Ask me about** | React, TypeScript, Supabase, and why it only fails on CI |
 
 ---
 
@@ -150,6 +150,10 @@ nothing to commit, working tree clean
   />
 </p>
 
+<p align="center">
+  <sub>Yes, the streak resets at 00:00 UTC. No, I did not plan my life around that.</sub>
+</p>
+
 ---
 
 ## 🧩 How I Work
@@ -158,6 +162,20 @@ nothing to commit, working tree clean
 - Readable beats clever — the next reader is a stranger, or future me.
 - If it only works locally, it doesn't work.
 - The best feature is the one that didn't need to be built.
+- Comments are for the next developer. I write them for me in six months, who is technically a different person.
+- If the tests pass on the first try, be suspicious. Something simply isn't being tested.
+
+---
+
+## 🐛 Known Issues
+
+| Severity | Issue | Status |
+| :--- | :--- | :--- |
+| 🟠 Major | Number of side projects exceeds number of weekends | In progress |
+| 🟡 Minor | Tabs vs. spaces still unresolved internally | By design |
+| ⚪ Won't fix | `console.log` in production, since 2022 | Legacy support |
+
+> *"It's not a bug, it's an undocumented feature."* — every changelog I've ever written
 
 ---
 
@@ -195,16 +213,16 @@ nothing to commit, working tree clean
   </picture>
 </p>
 
+<p align="center">
+  <sub>The most reliable code I own. Runs on a cron job, never complains.</sub>
+</p>
+
 ---
 
 ## 📬 Contact
 
 <p align="center">
-  Open to collaborations and code reviews.
+  Open to collaborations, code reviews, and arguments about semicolons.
   <br />
-  Best reached by <a href="mailto:hpmine@web.de">email</a>.
-</p>
-
-<p align="center">
-  <em>⚡ Always curious, always building.</em>
+  Best reached by <a href="mailto:hpmine@web.de">email</a> — response time follows an exponential distribution.
 </p>
